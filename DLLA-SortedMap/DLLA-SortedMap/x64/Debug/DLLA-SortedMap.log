@@ -1,0 +1,3 @@
+﻿  ShortTest.cpp
+C:\Users\Mihai\Desktop\School\DSA\DLLA-SortedMap\SortedMap.h(20): warning C4091: 'typedef ': ignored on left of 'SortedMap::DLLANode' when no variable is declared
+  DLLA-SortedMap.vcxproj -> C:\Users\Mihai\Desktop\School\DSA\DLLA-SortedMap\x64\Debug\DLLA-SortedMap.exe
